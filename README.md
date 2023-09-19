@@ -62,11 +62,15 @@ To set up the project locally, follow these steps:
 
 Navigate to the project directory:
 
-cd quadra-frontend-test
+    
+    ```bash
+    cd quadra-frontend-test
 
 Install project dependencies:
 
-npm install
+    
+    ```bash
+    npm install
 
 
 ## WebSocket Server
