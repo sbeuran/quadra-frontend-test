@@ -61,13 +61,11 @@ To set up the project locally, follow these steps:
    git clone https://github.com/sbeuran/quadra-frontend-test.git
 
 Navigate to the project directory:
-
     
     ```bash
     cd quadra-frontend-test
 
 Install project dependencies:
-
     
     ```bash
     npm install
