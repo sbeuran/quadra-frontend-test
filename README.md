@@ -87,3 +87,15 @@ To set up the project locally, follow these steps:
 - If the new value is greater than the previous one, it changes to green.
 - If the new value is lower than the previous one, it changes to red.
 - If it is the same, it changes to white.
+
+
+## Bonus Feature: Number Color Change
+- The bonus feature of changing the number color based on conditions is implemented in the NumberDisplay component.
+
+## Running the Application
+ - To run the application locally, execute the following command:
+
+  ```bash
+  npm run dev
+
+- This command starts the development server, and you can access the application in your web browser at http://localhost:3000.
