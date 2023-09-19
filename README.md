@@ -69,15 +69,15 @@ Install project dependencies:
 npm install
 
 
-[WebSocket Server](#websocket-server)
+## WebSocket Server
 
 - The WebSocket server is implemented in index.js. It's responsible for generating random numbers between 1000000 and 9999999 every 100ms and sending them to connected clients via WebSocket.
 
-[Redux Store](#redux-store)
+## Redux Store
 
 - The Redux store is set up in store.ts using Redux Toolkit. It manages the application state, including the received numbers and their associated colors.
 
-[Components](#components)
+## Components
 
 - NumberDisplay Component
 - The NumberDisplay.tsx component displays the received numbers. The color of the number changes based on the following conditions:
